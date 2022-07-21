@@ -4,7 +4,7 @@ A web application that allows users to
 * counts down until account 0.0.800 holds 250 million hbar and staking rewards are enabled to pay out
 
 # The need for *stake-my-hbar*
-* Staking on the Hedera network is going live on the mainnet TOMORROW, July 7/21, yet there doesn't seem to be a community application yet that is on track to actually offer this feature of enabling staking. 
+* Staking on the Hedera network is going live on the mainnet TOMORROW, July 7/21
 * Staking won't actually pay out until Account 0.0.800 has 250 million Hbar yet there isn't a lot of visibility into that account's balance. 
 
 There's a long road ahead - why not join in and watch it on stake-my-hbar?
