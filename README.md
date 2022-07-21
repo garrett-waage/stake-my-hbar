@@ -14,7 +14,13 @@ There's a long road ahead - why not join in and watch it on stake-my-hbar?
 * Exercise your democratic power to stake who you want
 * Generate passive income on your hbar in the **safest** way
 
+# Where's the code?
+This repo's current function is **just** to manage the development of *stake-my-hbar* while providing visiblity and a hub for community for the product. 
+
 # What about open source?
 In the future I can see open sourcing *stake-my-hbar* with the goal of showcasing an application built on Hedera to lower the barrier of entry into this space. 
 
-# [Join in on the conversation](https://github.com/garrett-waage/stake-my-hbar/discussions)
+# Get involved!
+* [Explore the active development](https://github.com/users/garrett-waage/projects/4)
+* [Explore the roadmap](https://github.com/garrett-waage/stake-my-hbar/milestones?direction=desc&sort=completeness&state=open)
+* [Join in on the conversation](https://github.com/garrett-waage/stake-my-hbar/discussions)
